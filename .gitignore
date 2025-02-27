@@ -1,0 +1,7 @@
+coverage.html
+coverage.out
+.DS_Store
+.idea/
+.vscode/
+.env
+tasks.db
